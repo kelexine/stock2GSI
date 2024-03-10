@@ -2,17 +2,16 @@
     Linux or Mac
 
 ## Released GSIs
-Download links: https://mirrors.lolinet.com/firmware/gsi/  
+[Download links: (https://mirrors.lolinet.com/firmware/gsi/)]
 XDA thread: https://forum.xda-developers.com/project-treble/trebleenabled-device-development/pie-erfan-gsi-ports-t3906486  
-Telegram group: https://t.me/ErfanGSIs  
-Telegram channel: https://t.me/ErfanGSI  
+Telegram Account: https://t.me/kelexine  
 
 ## How to use
 
 ### Download tools
 ```
-git clone --recurse-submodules https://github.com/erfanoabdi/ErfanGSIs.git
-cd ErfanGSIs
+git clone --recurse-submodules https://github.com/kelexine/stock2GSI.git
+cd stock2GSI
 ```
 
 ### For setting up requirements
